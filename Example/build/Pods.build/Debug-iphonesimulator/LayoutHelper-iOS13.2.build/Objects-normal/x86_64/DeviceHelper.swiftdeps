@@ -145,6 +145,7 @@ depends-member:
 - ["SQ", "hashValue"]
 - ["SQ", "height"]
 - ["SQ", "i10_5Inch"]
+- ["SQ", "i10_8Inch"]
 - ["SQ", "i11_Inch"]
 - ["SQ", "i12_9Inch"]
 - ["SQ", "i3_5Inch"]
@@ -154,6 +155,7 @@ depends-member:
 - ["SQ", "i5_8Inch"]
 - ["SQ", "i6_1Inch"]
 - ["SQ", "i6_5Inch"]
+- ["SQ", "i6_7Inch"]
 - ["SQ", "i7_9Inch"]
 - ["SQ", "i9_7Inch"]
 - !private ["SQ", "iPad2"]
@@ -277,6 +279,7 @@ depends-member:
 - ["SH", "hash"]
 - ["SH", "hashValue"]
 - ["SH", "i10_5Inch"]
+- ["SH", "i10_8Inch"]
 - ["SH", "i11_Inch"]
 - ["SH", "i12_9Inch"]
 - ["SH", "i3_5Inch"]
@@ -286,6 +289,7 @@ depends-member:
 - ["SH", "i5_8Inch"]
 - ["SH", "i6_1Inch"]
 - ["SH", "i6_5Inch"]
+- ["SH", "i6_7Inch"]
 - ["SH", "i7_9Inch"]
 - ["SH", "i9_7Inch"]
 - !private ["SH", "iPad2"]
@@ -593,6 +597,7 @@ depends-member:
 - ["12LayoutHelper12UIDeviceSizeO", "hash"]
 - ["12LayoutHelper12UIDeviceSizeO", "hashValue"]
 - ["12LayoutHelper12UIDeviceSizeO", "i10_5Inch"]
+- ["12LayoutHelper12UIDeviceSizeO", "i10_8Inch"]
 - ["12LayoutHelper12UIDeviceSizeO", "i11_Inch"]
 - ["12LayoutHelper12UIDeviceSizeO", "i12_9Inch"]
 - ["12LayoutHelper12UIDeviceSizeO", "i3_5Inch"]
@@ -603,6 +608,7 @@ depends-member:
 - ["12LayoutHelper12UIDeviceSizeO", "i5_8Inch"]
 - ["12LayoutHelper12UIDeviceSizeO", "i6_1Inch"]
 - ["12LayoutHelper12UIDeviceSizeO", "i6_5Inch"]
+- ["12LayoutHelper12UIDeviceSizeO", "i6_7Inch"]
 - ["12LayoutHelper12UIDeviceSizeO", "i7_9Inch"]
 - ["12LayoutHelper12UIDeviceSizeO", "i9_7Inch"]
 - ["12LayoutHelper12UIDeviceSizeO", "unknown"]
@@ -761,4 +767,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "4a259e141448e480e2941a534cf456bb"
+interface-hash: "b8a8866b22c8aaa0bd1467c2709d1cde"

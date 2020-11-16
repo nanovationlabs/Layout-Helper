@@ -7,6 +7,7 @@ provides-member:
 - ["12LayoutHelper08NSLayoutB0C", ""]
 provides-dynamic-lookup:
 - "deviceConstant"
+- "iPadAir10_8"
 - "iPadMini"
 - "iPadPro10_5"
 - "iPadPro11"
@@ -15,7 +16,10 @@ provides-dynamic-lookup:
 - "iPhone11"
 - "iPhone11Max"
 - "iPhone11Pro"
+- "iPhone12"
 - "iPhone12Mini"
+- "iPhone12Pro"
+- "iPhone12ProMax"
 - "iPhone4s"
 - "iPhone8"
 - "iPhone8Plus"
@@ -31,6 +35,7 @@ depends-top-level:
 - !private "constant"
 - !private "deviceConstant"
 - !private "deviceSize"
+- !private "iPadAir10_8"
 - !private "iPadMini"
 - !private "iPadPro10_5"
 - !private "iPadPro11"
@@ -39,7 +44,10 @@ depends-top-level:
 - !private "iPhone11"
 - !private "iPhone11Max"
 - !private "iPhone11Pro"
+- !private "iPhone12"
 - !private "iPhone12Mini"
+- !private "iPhone12Pro"
+- !private "iPhone12ProMax"
 - !private "iPhone4s"
 - !private "iPhone8"
 - !private "iPhone8Plus"
@@ -49,6 +57,7 @@ depends-member:
 - !private ["s7CVarArgP", "constant"]
 - !private ["s7CVarArgP", "deviceConstant"]
 - !private ["s7CVarArgP", "deviceSize"]
+- !private ["s7CVarArgP", "iPadAir10_8"]
 - !private ["s7CVarArgP", "iPadMini"]
 - !private ["s7CVarArgP", "iPadPro10_5"]
 - !private ["s7CVarArgP", "iPadPro11"]
@@ -57,7 +66,10 @@ depends-member:
 - !private ["s7CVarArgP", "iPhone11"]
 - !private ["s7CVarArgP", "iPhone11Max"]
 - !private ["s7CVarArgP", "iPhone11Pro"]
+- !private ["s7CVarArgP", "iPhone12"]
 - !private ["s7CVarArgP", "iPhone12Mini"]
+- !private ["s7CVarArgP", "iPhone12Pro"]
+- !private ["s7CVarArgP", "iPhone12ProMax"]
 - !private ["s7CVarArgP", "iPhone4s"]
 - !private ["s7CVarArgP", "iPhone8"]
 - !private ["s7CVarArgP", "iPhone8Plus"]
@@ -66,6 +78,7 @@ depends-member:
 - !private ["s28CustomDebugStringConvertibleP", "constant"]
 - !private ["s28CustomDebugStringConvertibleP", "deviceConstant"]
 - !private ["s28CustomDebugStringConvertibleP", "deviceSize"]
+- !private ["s28CustomDebugStringConvertibleP", "iPadAir10_8"]
 - !private ["s28CustomDebugStringConvertibleP", "iPadMini"]
 - !private ["s28CustomDebugStringConvertibleP", "iPadPro10_5"]
 - !private ["s28CustomDebugStringConvertibleP", "iPadPro11"]
@@ -74,7 +87,10 @@ depends-member:
 - !private ["s28CustomDebugStringConvertibleP", "iPhone11"]
 - !private ["s28CustomDebugStringConvertibleP", "iPhone11Max"]
 - !private ["s28CustomDebugStringConvertibleP", "iPhone11Pro"]
+- !private ["s28CustomDebugStringConvertibleP", "iPhone12"]
 - !private ["s28CustomDebugStringConvertibleP", "iPhone12Mini"]
+- !private ["s28CustomDebugStringConvertibleP", "iPhone12Pro"]
+- !private ["s28CustomDebugStringConvertibleP", "iPhone12ProMax"]
 - !private ["s28CustomDebugStringConvertibleP", "iPhone4s"]
 - !private ["s28CustomDebugStringConvertibleP", "iPhone8"]
 - !private ["s28CustomDebugStringConvertibleP", "iPhone8Plus"]
@@ -83,6 +99,7 @@ depends-member:
 - !private ["s23CustomStringConvertibleP", "constant"]
 - !private ["s23CustomStringConvertibleP", "deviceConstant"]
 - !private ["s23CustomStringConvertibleP", "deviceSize"]
+- !private ["s23CustomStringConvertibleP", "iPadAir10_8"]
 - !private ["s23CustomStringConvertibleP", "iPadMini"]
 - !private ["s23CustomStringConvertibleP", "iPadPro10_5"]
 - !private ["s23CustomStringConvertibleP", "iPadPro11"]
@@ -91,7 +108,10 @@ depends-member:
 - !private ["s23CustomStringConvertibleP", "iPhone11"]
 - !private ["s23CustomStringConvertibleP", "iPhone11Max"]
 - !private ["s23CustomStringConvertibleP", "iPhone11Pro"]
+- !private ["s23CustomStringConvertibleP", "iPhone12"]
 - !private ["s23CustomStringConvertibleP", "iPhone12Mini"]
+- !private ["s23CustomStringConvertibleP", "iPhone12Pro"]
+- !private ["s23CustomStringConvertibleP", "iPhone12ProMax"]
 - !private ["s23CustomStringConvertibleP", "iPhone4s"]
 - !private ["s23CustomStringConvertibleP", "iPhone8"]
 - !private ["s23CustomStringConvertibleP", "iPhone8Plus"]
@@ -102,6 +122,7 @@ depends-member:
 - !private ["SQ", "deviceConstant"]
 - !private ["SQ", "deviceSize"]
 - !private ["SQ", "i10_5Inch"]
+- !private ["SQ", "i10_8Inch"]
 - !private ["SQ", "i11_Inch"]
 - !private ["SQ", "i12_9Inch"]
 - !private ["SQ", "i3_5Inch"]
@@ -112,8 +133,10 @@ depends-member:
 - !private ["SQ", "i5_8Inch"]
 - !private ["SQ", "i6_1Inch"]
 - !private ["SQ", "i6_5Inch"]
+- !private ["SQ", "i6_7Inch"]
 - !private ["SQ", "i7_9Inch"]
 - !private ["SQ", "i9_7Inch"]
+- !private ["SQ", "iPadAir10_8"]
 - !private ["SQ", "iPadMini"]
 - !private ["SQ", "iPadPro10_5"]
 - !private ["SQ", "iPadPro11"]
@@ -122,7 +145,10 @@ depends-member:
 - !private ["SQ", "iPhone11"]
 - !private ["SQ", "iPhone11Max"]
 - !private ["SQ", "iPhone11Pro"]
+- !private ["SQ", "iPhone12"]
 - !private ["SQ", "iPhone12Mini"]
+- !private ["SQ", "iPhone12Pro"]
+- !private ["SQ", "iPhone12ProMax"]
 - !private ["SQ", "iPhone4s"]
 - !private ["SQ", "iPhone8"]
 - !private ["SQ", "iPhone8Plus"]
@@ -134,6 +160,7 @@ depends-member:
 - !private ["SH", "deviceConstant"]
 - !private ["SH", "deviceSize"]
 - !private ["SH", "i10_5Inch"]
+- !private ["SH", "i10_8Inch"]
 - !private ["SH", "i11_Inch"]
 - !private ["SH", "i12_9Inch"]
 - !private ["SH", "i3_5Inch"]
@@ -144,8 +171,10 @@ depends-member:
 - !private ["SH", "i5_8Inch"]
 - !private ["SH", "i6_1Inch"]
 - !private ["SH", "i6_5Inch"]
+- !private ["SH", "i6_7Inch"]
 - !private ["SH", "i7_9Inch"]
 - !private ["SH", "i9_7Inch"]
+- !private ["SH", "iPadAir10_8"]
 - !private ["SH", "iPadMini"]
 - !private ["SH", "iPadPro10_5"]
 - !private ["SH", "iPadPro11"]
@@ -154,7 +183,10 @@ depends-member:
 - !private ["SH", "iPhone11"]
 - !private ["SH", "iPhone11Max"]
 - !private ["SH", "iPhone11Pro"]
+- !private ["SH", "iPhone12"]
 - !private ["SH", "iPhone12Mini"]
+- !private ["SH", "iPhone12Pro"]
+- !private ["SH", "iPhone12ProMax"]
 - !private ["SH", "iPhone4s"]
 - !private ["SH", "iPhone8"]
 - !private ["SH", "iPhone8Plus"]
@@ -166,6 +198,7 @@ depends-member:
 - !private ["So18NSLayoutConstraintC", "constant"]
 - ["So18NSLayoutConstraintC", "deviceConstant"]
 - !private ["So18NSLayoutConstraintC", "deviceSize"]
+- ["So18NSLayoutConstraintC", "iPadAir10_8"]
 - ["So18NSLayoutConstraintC", "iPadMini"]
 - ["So18NSLayoutConstraintC", "iPadPro10_5"]
 - ["So18NSLayoutConstraintC", "iPadPro11"]
@@ -174,7 +207,10 @@ depends-member:
 - ["So18NSLayoutConstraintC", "iPhone11"]
 - ["So18NSLayoutConstraintC", "iPhone11Max"]
 - ["So18NSLayoutConstraintC", "iPhone11Pro"]
+- ["So18NSLayoutConstraintC", "iPhone12"]
 - ["So18NSLayoutConstraintC", "iPhone12Mini"]
+- ["So18NSLayoutConstraintC", "iPhone12Pro"]
+- ["So18NSLayoutConstraintC", "iPhone12ProMax"]
 - ["So18NSLayoutConstraintC", "iPhone4s"]
 - ["So18NSLayoutConstraintC", "iPhone8"]
 - ["So18NSLayoutConstraintC", "iPhone8Plus"]
@@ -187,6 +223,7 @@ depends-member:
 - ["12LayoutHelper08NSLayoutB0C", "deinit"]
 - ["12LayoutHelper08NSLayoutB0C", "deviceConstant"]
 - !private ["12LayoutHelper08NSLayoutB0C", "deviceSize"]
+- ["12LayoutHelper08NSLayoutB0C", "iPadAir10_8"]
 - ["12LayoutHelper08NSLayoutB0C", "iPadMini"]
 - ["12LayoutHelper08NSLayoutB0C", "iPadPro10_5"]
 - ["12LayoutHelper08NSLayoutB0C", "iPadPro11"]
@@ -195,7 +232,10 @@ depends-member:
 - ["12LayoutHelper08NSLayoutB0C", "iPhone11"]
 - ["12LayoutHelper08NSLayoutB0C", "iPhone11Max"]
 - ["12LayoutHelper08NSLayoutB0C", "iPhone11Pro"]
+- ["12LayoutHelper08NSLayoutB0C", "iPhone12"]
 - ["12LayoutHelper08NSLayoutB0C", "iPhone12Mini"]
+- ["12LayoutHelper08NSLayoutB0C", "iPhone12Pro"]
+- ["12LayoutHelper08NSLayoutB0C", "iPhone12ProMax"]
 - ["12LayoutHelper08NSLayoutB0C", "iPhone4s"]
 - ["12LayoutHelper08NSLayoutB0C", "iPhone8"]
 - ["12LayoutHelper08NSLayoutB0C", "iPhone8Plus"]
@@ -208,6 +248,7 @@ depends-member:
 - ["So8NSObjectC", "constraintWithItem"]
 - ["So8NSObjectC", "deviceConstant"]
 - !private ["So8NSObjectC", "deviceSize"]
+- ["So8NSObjectC", "iPadAir10_8"]
 - ["So8NSObjectC", "iPadMini"]
 - ["So8NSObjectC", "iPadPro10_5"]
 - ["So8NSObjectC", "iPadPro11"]
@@ -216,7 +257,10 @@ depends-member:
 - ["So8NSObjectC", "iPhone11"]
 - ["So8NSObjectC", "iPhone11Max"]
 - ["So8NSObjectC", "iPhone11Pro"]
+- ["So8NSObjectC", "iPhone12"]
 - ["So8NSObjectC", "iPhone12Mini"]
+- ["So8NSObjectC", "iPhone12Pro"]
+- ["So8NSObjectC", "iPhone12ProMax"]
 - ["So8NSObjectC", "iPhone4s"]
 - ["So8NSObjectC", "iPhone8"]
 - ["So8NSObjectC", "iPhone8Plus"]
@@ -229,6 +273,7 @@ depends-member:
 - ["So8NSObjectP", "constraintWithItem"]
 - ["So8NSObjectP", "deviceConstant"]
 - !private ["So8NSObjectP", "deviceSize"]
+- ["So8NSObjectP", "iPadAir10_8"]
 - ["So8NSObjectP", "iPadMini"]
 - ["So8NSObjectP", "iPadPro10_5"]
 - ["So8NSObjectP", "iPadPro11"]
@@ -237,7 +282,10 @@ depends-member:
 - ["So8NSObjectP", "iPhone11"]
 - ["So8NSObjectP", "iPhone11Max"]
 - ["So8NSObjectP", "iPhone11Pro"]
+- ["So8NSObjectP", "iPhone12"]
 - ["So8NSObjectP", "iPhone12Mini"]
+- ["So8NSObjectP", "iPhone12Pro"]
+- ["So8NSObjectP", "iPhone12ProMax"]
 - ["So8NSObjectP", "iPhone4s"]
 - ["So8NSObjectP", "iPhone8"]
 - ["So8NSObjectP", "iPhone8Plus"]
@@ -245,6 +293,7 @@ depends-member:
 - ["So8NSObjectP", "init"]
 - !private ["12LayoutHelper12UIDeviceSizeO", ""]
 - !private ["12LayoutHelper12UIDeviceSizeO", "i10_5Inch"]
+- !private ["12LayoutHelper12UIDeviceSizeO", "i10_8Inch"]
 - !private ["12LayoutHelper12UIDeviceSizeO", "i11_Inch"]
 - !private ["12LayoutHelper12UIDeviceSizeO", "i12_9Inch"]
 - !private ["12LayoutHelper12UIDeviceSizeO", "i3_5Inch"]
@@ -255,6 +304,7 @@ depends-member:
 - !private ["12LayoutHelper12UIDeviceSizeO", "i5_8Inch"]
 - !private ["12LayoutHelper12UIDeviceSizeO", "i6_1Inch"]
 - !private ["12LayoutHelper12UIDeviceSizeO", "i6_5Inch"]
+- !private ["12LayoutHelper12UIDeviceSizeO", "i6_7Inch"]
 - !private ["12LayoutHelper12UIDeviceSizeO", "i7_9Inch"]
 - !private ["12LayoutHelper12UIDeviceSizeO", "i9_7Inch"]
 - !private ["So18UIFocusEnvironmentP", ""]
@@ -264,6 +314,7 @@ depends-member:
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "constant"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "deviceConstant"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "deviceSize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "iPadAir10_8"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "iPadMini"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "iPadPro10_5"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "iPadPro11"]
@@ -272,7 +323,10 @@ depends-member:
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "iPhone11"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "iPhone11Max"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "iPhone11Pro"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "iPhone12"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "iPhone12Mini"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "iPhone12Pro"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "iPhone12ProMax"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "iPhone4s"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "iPhone8"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "iPhone8Plus"]
@@ -281,6 +335,7 @@ depends-member:
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "constant"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "deviceConstant"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "deviceSize"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPadAir10_8"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPadMini"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPadPro10_5"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPadPro11"]
@@ -289,7 +344,10 @@ depends-member:
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPhone11"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPhone11Max"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPhone11Pro"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPhone12"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPhone12Mini"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPhone12Pro"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPhone12ProMax"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPhone4s"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPhone8"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPhone8Plus"]
@@ -344,4 +402,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "5b9288ae57b9df4ae085c371c6e84884"
+interface-hash: "4d61c645404e50e728f373d6a6a74d38"
