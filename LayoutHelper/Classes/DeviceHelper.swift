@@ -16,6 +16,7 @@ enum UIDeviceSize  {
     case i6_7Inch // iPhone 12 Pro Max
     case i7_9Inch
     case i9_7Inch
+    case i10_2Inch
     case i10_5Inch
     case i10_8Inch // iPad Air 4th gen
     case i11_Inch
@@ -64,6 +65,8 @@ let deviceSize : UIDeviceSize = {
         default:
             return .i9_7Inch
         }
+    case 1080:
+            return .i10_2Inch
     case 1112:
         return .i10_5Inch
     case 1180:
