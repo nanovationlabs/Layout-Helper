@@ -10,55 +10,55 @@ import UIKit
 
 @IBDesignable class UIButtonHelper : UIButton {
     @IBInspectable var iPhone4s: CGFloat = 0.0 {
-        didSet { deviceConstant(.i3_5Inch,value:iPhone4s) }
+        didSet { deviceFont(.i3_5Inch,value:iPhone4s) }
     }
     @IBInspectable var iPhoneSE: CGFloat = 0.0 {
-        didSet { deviceConstant(.i4Inch,value:iPhoneSE) }
+        didSet { deviceFont(.i4Inch,value:iPhoneSE) }
     }
     @IBInspectable var iPhone8: CGFloat = 0.0 {
-        didSet { deviceConstant(.i4_7Inch,value:iPhone8) }
+        didSet { deviceFont(.i4_7Inch,value:iPhone8) }
     }
     @IBInspectable var iPhone8Plus: CGFloat = 0.0 {
-        didSet { deviceConstant(.i5_5Inch,value:iPhone8Plus) }
+        didSet { deviceFont(.i5_5Inch,value:iPhone8Plus) }
     }
     @IBInspectable var iPhone11Pro: CGFloat = 0.0 {
-        didSet { deviceConstant(.i5_8Inch,value:iPhone11Pro) }
+        didSet { deviceFont(.i5_8Inch,value:iPhone11Pro) }
     }
     @IBInspectable var iPhone11: CGFloat = 0.0 {
-        didSet { deviceConstant(.i6_1Inch,value:iPhone11) }
+        didSet { deviceFont(.i6_1Inch,value:iPhone11) }
     }
     @IBInspectable var iPhone11Max: CGFloat = 0.0 {
-        didSet { deviceConstant(.i6_5Inch,value:iPhone11Max) }
+        didSet { deviceFont(.i6_5Inch,value:iPhone11Max) }
     }
     @IBInspectable var iPhone12Mini: CGFloat = 0.0 {
-        didSet { deviceConstant(.i5_4Inch,value:iPhone12Mini) }
+        didSet { deviceFont(.i5_4Inch,value:iPhone12Mini) }
     }
     @IBInspectable var iPhone12: CGFloat = 0.0 {
-        didSet { deviceConstant(.i6_1Inch,value:iPhone12) }
+        didSet { deviceFont(.i6_1Inch,value:iPhone12) }
     }
     @IBInspectable var iPhone12Pro: CGFloat = 0.0 {
-        didSet { deviceConstant(.i6_1Inch,value:iPhone12Pro) }
+        didSet { deviceFont(.i6_1Inch,value:iPhone12Pro) }
     }
     @IBInspectable var iPhone12ProMax: CGFloat = 0.0 {
-        didSet { deviceConstant(.i6_7Inch,value:iPhone12ProMax) }
+        didSet { deviceFont(.i6_7Inch,value:iPhone12ProMax) }
     }
     @IBInspectable var iPadMini: CGFloat = 0.0 {
-        didSet { deviceConstant(.i7_9Inch,value:iPadMini) }
+        didSet { deviceFont(.i7_9Inch,value:iPadMini) }
     }
     @IBInspectable var iPadPro9_7: CGFloat = 0.0 {
-        didSet { deviceConstant(.i9_7Inch,value:iPadPro9_7) }
+        didSet { deviceFont(.i9_7Inch,value:iPadPro9_7) }
     }
     @IBInspectable var iPadPro10_5: CGFloat = 0.0 {
-        didSet { deviceConstant(.i10_5Inch,value:iPadPro10_5) }
+        didSet { deviceFont(.i10_5Inch,value:iPadPro10_5) }
     }
     @IBInspectable var iPadAir10_8: CGFloat = 0.0 {
-        didSet { deviceConstant(.i10_8Inch,value:iPadAir10_8) }
+        didSet { deviceFont(.i10_8Inch,value:iPadAir10_8) }
     }
     @IBInspectable var iPadPro11: CGFloat = 0.0 {
-        didSet { deviceConstant(.i11_Inch,value:iPadPro11) }
+        didSet { deviceFont(.i11_Inch,value:iPadPro11) }
     }
     @IBInspectable var iPadPro12_9: CGFloat = 0.0 {
-        didSet { deviceConstant(.i12_9Inch,value:iPadPro12_9) }
+        didSet { deviceFont(.i12_9Inch,value:iPadPro12_9) }
     }
     // Helpers
     open func deviceFont(_ device:UIDeviceSize,value:CGFloat) {

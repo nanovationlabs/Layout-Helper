@@ -1,10 +1,10 @@
 version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
 options: "3ac00e15c9ebd1eb3cdf9784d9b085cb"
-build_time: [1605508061, 611082000]
+build_time: [1605509161, 855882000]
 inputs:
   "/Users/antoniremeseiroalfonso/Documents/Smarcle Workspace/Apps/Libraries/Layout-Helper/LayoutHelper/Classes/DeviceHelper.swift": [1605507565, 756887402]
   "/Users/antoniremeseiroalfonso/Documents/Smarcle Workspace/Apps/Libraries/Layout-Helper/LayoutHelper/Classes/NSLayoutHelper.swift": [1605507656, 633265058]
-  "/Users/antoniremeseiroalfonso/Documents/Smarcle Workspace/Apps/Libraries/Layout-Helper/LayoutHelper/Classes/UIButtonHelper.swift": !dirty [1605507794, 984365506]
+  "/Users/antoniremeseiroalfonso/Documents/Smarcle Workspace/Apps/Libraries/Layout-Helper/LayoutHelper/Classes/UIButtonHelper.swift": [1605509161, 130926173]
   "/Users/antoniremeseiroalfonso/Documents/Smarcle Workspace/Apps/Libraries/Layout-Helper/LayoutHelper/Classes/UILabelHelper.swift": [1605507833, 911780490]
   "/Users/antoniremeseiroalfonso/Documents/Smarcle Workspace/Apps/Libraries/Layout-Helper/LayoutHelper/Classes/UITextFieldHelper.swift": [1605507851, 784361598]
   "/Users/antoniremeseiroalfonso/Documents/Smarcle Workspace/Apps/Libraries/Layout-Helper/LayoutHelper/Classes/UITextViewHelper.swift": [1605507850, 337257338]
