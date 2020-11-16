@@ -8,7 +8,7 @@ enum UIDeviceSize  {
     case i3_5Inch
     case i4Inch
     case i4_7Inch
-    case i5_4Inch // iPhone 12 mini 5.4 inch
+    case i5_4Inch // iPhone 12 Mini 
     case i5_5Inch
     case i5_8Inch
     case i6_1Inch
@@ -38,7 +38,13 @@ let deviceSize : UIDeviceSize = {
     case 736:
         return .i5_5Inch
     case 812:
-        return .i5_8Inch // iPhone 12 Mini
+        switch UIDevice().type {
+        case .iPhone12Mini:
+            return .i5_4Inch // iPhone 12 Mini
+        default:
+            return .i5_8Inch // iPhone 11 Pro
+        }
+        return .i5_4Inch // iPhone 12 Mini
     case 844:
         return .i6_1Inch // iPhone 12 & iPhone 12 pro 6.1 inches
     case 896:
