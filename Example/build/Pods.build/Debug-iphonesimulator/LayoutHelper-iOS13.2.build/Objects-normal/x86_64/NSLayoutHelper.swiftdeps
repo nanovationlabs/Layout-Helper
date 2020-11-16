@@ -1,0 +1,347 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NSLayoutHelper"
+provides-nominal:
+- "12LayoutHelper08NSLayoutB0C"
+provides-member:
+- ["12LayoutHelper08NSLayoutB0C", ""]
+provides-dynamic-lookup:
+- "deviceConstant"
+- "iPadMini"
+- "iPadPro10_5"
+- "iPadPro11"
+- "iPadPro12_9"
+- "iPadPro9_7"
+- "iPhone11"
+- "iPhone11Max"
+- "iPhone11Pro"
+- "iPhone12Mini"
+- "iPhone4s"
+- "iPhone8"
+- "iPhone8Plus"
+- "iPhoneSE"
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- "CGFloat"
+- "FloatLiteralType"
+- "NSLayoutConstraint"
+- "NSLayoutHelper"
+- "UIDeviceSize"
+- !private "constant"
+- !private "deviceConstant"
+- !private "deviceSize"
+- !private "iPadMini"
+- !private "iPadPro10_5"
+- !private "iPadPro11"
+- !private "iPadPro12_9"
+- !private "iPadPro9_7"
+- !private "iPhone11"
+- !private "iPhone11Max"
+- !private "iPhone11Pro"
+- !private "iPhone12Mini"
+- !private "iPhone4s"
+- !private "iPhone8"
+- !private "iPhone8Plus"
+- !private "iPhoneSE"
+depends-member:
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "constant"]
+- !private ["s7CVarArgP", "deviceConstant"]
+- !private ["s7CVarArgP", "deviceSize"]
+- !private ["s7CVarArgP", "iPadMini"]
+- !private ["s7CVarArgP", "iPadPro10_5"]
+- !private ["s7CVarArgP", "iPadPro11"]
+- !private ["s7CVarArgP", "iPadPro12_9"]
+- !private ["s7CVarArgP", "iPadPro9_7"]
+- !private ["s7CVarArgP", "iPhone11"]
+- !private ["s7CVarArgP", "iPhone11Max"]
+- !private ["s7CVarArgP", "iPhone11Pro"]
+- !private ["s7CVarArgP", "iPhone12Mini"]
+- !private ["s7CVarArgP", "iPhone4s"]
+- !private ["s7CVarArgP", "iPhone8"]
+- !private ["s7CVarArgP", "iPhone8Plus"]
+- !private ["s7CVarArgP", "iPhoneSE"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "constant"]
+- !private ["s28CustomDebugStringConvertibleP", "deviceConstant"]
+- !private ["s28CustomDebugStringConvertibleP", "deviceSize"]
+- !private ["s28CustomDebugStringConvertibleP", "iPadMini"]
+- !private ["s28CustomDebugStringConvertibleP", "iPadPro10_5"]
+- !private ["s28CustomDebugStringConvertibleP", "iPadPro11"]
+- !private ["s28CustomDebugStringConvertibleP", "iPadPro12_9"]
+- !private ["s28CustomDebugStringConvertibleP", "iPadPro9_7"]
+- !private ["s28CustomDebugStringConvertibleP", "iPhone11"]
+- !private ["s28CustomDebugStringConvertibleP", "iPhone11Max"]
+- !private ["s28CustomDebugStringConvertibleP", "iPhone11Pro"]
+- !private ["s28CustomDebugStringConvertibleP", "iPhone12Mini"]
+- !private ["s28CustomDebugStringConvertibleP", "iPhone4s"]
+- !private ["s28CustomDebugStringConvertibleP", "iPhone8"]
+- !private ["s28CustomDebugStringConvertibleP", "iPhone8Plus"]
+- !private ["s28CustomDebugStringConvertibleP", "iPhoneSE"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "constant"]
+- !private ["s23CustomStringConvertibleP", "deviceConstant"]
+- !private ["s23CustomStringConvertibleP", "deviceSize"]
+- !private ["s23CustomStringConvertibleP", "iPadMini"]
+- !private ["s23CustomStringConvertibleP", "iPadPro10_5"]
+- !private ["s23CustomStringConvertibleP", "iPadPro11"]
+- !private ["s23CustomStringConvertibleP", "iPadPro12_9"]
+- !private ["s23CustomStringConvertibleP", "iPadPro9_7"]
+- !private ["s23CustomStringConvertibleP", "iPhone11"]
+- !private ["s23CustomStringConvertibleP", "iPhone11Max"]
+- !private ["s23CustomStringConvertibleP", "iPhone11Pro"]
+- !private ["s23CustomStringConvertibleP", "iPhone12Mini"]
+- !private ["s23CustomStringConvertibleP", "iPhone4s"]
+- !private ["s23CustomStringConvertibleP", "iPhone8"]
+- !private ["s23CustomStringConvertibleP", "iPhone8Plus"]
+- !private ["s23CustomStringConvertibleP", "iPhoneSE"]
+- !private ["SQ", "=="]
+- ["SQ", ""]
+- !private ["SQ", "constant"]
+- !private ["SQ", "deviceConstant"]
+- !private ["SQ", "deviceSize"]
+- !private ["SQ", "i10_5Inch"]
+- !private ["SQ", "i11_Inch"]
+- !private ["SQ", "i12_9Inch"]
+- !private ["SQ", "i3_5Inch"]
+- !private ["SQ", "i4Inch"]
+- !private ["SQ", "i4_7Inch"]
+- !private ["SQ", "i5_4Inch"]
+- !private ["SQ", "i5_5Inch"]
+- !private ["SQ", "i5_8Inch"]
+- !private ["SQ", "i6_1Inch"]
+- !private ["SQ", "i6_5Inch"]
+- !private ["SQ", "i7_9Inch"]
+- !private ["SQ", "i9_7Inch"]
+- !private ["SQ", "iPadMini"]
+- !private ["SQ", "iPadPro10_5"]
+- !private ["SQ", "iPadPro11"]
+- !private ["SQ", "iPadPro12_9"]
+- !private ["SQ", "iPadPro9_7"]
+- !private ["SQ", "iPhone11"]
+- !private ["SQ", "iPhone11Max"]
+- !private ["SQ", "iPhone11Pro"]
+- !private ["SQ", "iPhone12Mini"]
+- !private ["SQ", "iPhone4s"]
+- !private ["SQ", "iPhone8"]
+- !private ["SQ", "iPhone8Plus"]
+- !private ["SQ", "iPhoneSE"]
+- ["s25ExpressibleByFloatLiteralP", "FloatLiteralType"]
+- ["s25ExpressibleByFloatLiteralP", "init"]
+- ["SH", ""]
+- !private ["SH", "constant"]
+- !private ["SH", "deviceConstant"]
+- !private ["SH", "deviceSize"]
+- !private ["SH", "i10_5Inch"]
+- !private ["SH", "i11_Inch"]
+- !private ["SH", "i12_9Inch"]
+- !private ["SH", "i3_5Inch"]
+- !private ["SH", "i4Inch"]
+- !private ["SH", "i4_7Inch"]
+- !private ["SH", "i5_4Inch"]
+- !private ["SH", "i5_5Inch"]
+- !private ["SH", "i5_8Inch"]
+- !private ["SH", "i6_1Inch"]
+- !private ["SH", "i6_5Inch"]
+- !private ["SH", "i7_9Inch"]
+- !private ["SH", "i9_7Inch"]
+- !private ["SH", "iPadMini"]
+- !private ["SH", "iPadPro10_5"]
+- !private ["SH", "iPadPro11"]
+- !private ["SH", "iPadPro12_9"]
+- !private ["SH", "iPadPro9_7"]
+- !private ["SH", "iPhone11"]
+- !private ["SH", "iPhone11Max"]
+- !private ["SH", "iPhone11Pro"]
+- !private ["SH", "iPhone12Mini"]
+- !private ["SH", "iPhone4s"]
+- !private ["SH", "iPhone8"]
+- !private ["SH", "iPhone8Plus"]
+- !private ["SH", "iPhoneSE"]
+- !private ["So8NSCodingP", ""]
+- ["So18NSLayoutConstraintC", "CGFloat"]
+- ["So18NSLayoutConstraintC", "UIDeviceSize"]
+- ["So18NSLayoutConstraintC", ""]
+- !private ["So18NSLayoutConstraintC", "constant"]
+- ["So18NSLayoutConstraintC", "deviceConstant"]
+- !private ["So18NSLayoutConstraintC", "deviceSize"]
+- ["So18NSLayoutConstraintC", "iPadMini"]
+- ["So18NSLayoutConstraintC", "iPadPro10_5"]
+- ["So18NSLayoutConstraintC", "iPadPro11"]
+- ["So18NSLayoutConstraintC", "iPadPro12_9"]
+- ["So18NSLayoutConstraintC", "iPadPro9_7"]
+- ["So18NSLayoutConstraintC", "iPhone11"]
+- ["So18NSLayoutConstraintC", "iPhone11Max"]
+- ["So18NSLayoutConstraintC", "iPhone11Pro"]
+- ["So18NSLayoutConstraintC", "iPhone12Mini"]
+- ["So18NSLayoutConstraintC", "iPhone4s"]
+- ["So18NSLayoutConstraintC", "iPhone8"]
+- ["So18NSLayoutConstraintC", "iPhone8Plus"]
+- ["So18NSLayoutConstraintC", "iPhoneSE"]
+- ["So18NSLayoutConstraintC", "init"]
+- ["12LayoutHelper08NSLayoutB0C", "CGFloat"]
+- ["12LayoutHelper08NSLayoutB0C", "UIDeviceSize"]
+- ["12LayoutHelper08NSLayoutB0C", ""]
+- !private ["12LayoutHelper08NSLayoutB0C", "constant"]
+- ["12LayoutHelper08NSLayoutB0C", "deinit"]
+- ["12LayoutHelper08NSLayoutB0C", "deviceConstant"]
+- !private ["12LayoutHelper08NSLayoutB0C", "deviceSize"]
+- ["12LayoutHelper08NSLayoutB0C", "iPadMini"]
+- ["12LayoutHelper08NSLayoutB0C", "iPadPro10_5"]
+- ["12LayoutHelper08NSLayoutB0C", "iPadPro11"]
+- ["12LayoutHelper08NSLayoutB0C", "iPadPro12_9"]
+- ["12LayoutHelper08NSLayoutB0C", "iPadPro9_7"]
+- ["12LayoutHelper08NSLayoutB0C", "iPhone11"]
+- ["12LayoutHelper08NSLayoutB0C", "iPhone11Max"]
+- ["12LayoutHelper08NSLayoutB0C", "iPhone11Pro"]
+- ["12LayoutHelper08NSLayoutB0C", "iPhone12Mini"]
+- ["12LayoutHelper08NSLayoutB0C", "iPhone4s"]
+- ["12LayoutHelper08NSLayoutB0C", "iPhone8"]
+- ["12LayoutHelper08NSLayoutB0C", "iPhone8Plus"]
+- ["12LayoutHelper08NSLayoutB0C", "iPhoneSE"]
+- ["12LayoutHelper08NSLayoutB0C", "init"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "UIDeviceSize"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "constant"]
+- ["So8NSObjectC", "constraintWithItem"]
+- ["So8NSObjectC", "deviceConstant"]
+- !private ["So8NSObjectC", "deviceSize"]
+- ["So8NSObjectC", "iPadMini"]
+- ["So8NSObjectC", "iPadPro10_5"]
+- ["So8NSObjectC", "iPadPro11"]
+- ["So8NSObjectC", "iPadPro12_9"]
+- ["So8NSObjectC", "iPadPro9_7"]
+- ["So8NSObjectC", "iPhone11"]
+- ["So8NSObjectC", "iPhone11Max"]
+- ["So8NSObjectC", "iPhone11Pro"]
+- ["So8NSObjectC", "iPhone12Mini"]
+- ["So8NSObjectC", "iPhone4s"]
+- ["So8NSObjectC", "iPhone8"]
+- ["So8NSObjectC", "iPhone8Plus"]
+- ["So8NSObjectC", "iPhoneSE"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectP", "CGFloat"]
+- ["So8NSObjectP", "UIDeviceSize"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "constant"]
+- ["So8NSObjectP", "constraintWithItem"]
+- ["So8NSObjectP", "deviceConstant"]
+- !private ["So8NSObjectP", "deviceSize"]
+- ["So8NSObjectP", "iPadMini"]
+- ["So8NSObjectP", "iPadPro10_5"]
+- ["So8NSObjectP", "iPadPro11"]
+- ["So8NSObjectP", "iPadPro12_9"]
+- ["So8NSObjectP", "iPadPro9_7"]
+- ["So8NSObjectP", "iPhone11"]
+- ["So8NSObjectP", "iPhone11Max"]
+- ["So8NSObjectP", "iPhone11Pro"]
+- ["So8NSObjectP", "iPhone12Mini"]
+- ["So8NSObjectP", "iPhone4s"]
+- ["So8NSObjectP", "iPhone8"]
+- ["So8NSObjectP", "iPhone8Plus"]
+- ["So8NSObjectP", "iPhoneSE"]
+- ["So8NSObjectP", "init"]
+- !private ["12LayoutHelper12UIDeviceSizeO", ""]
+- !private ["12LayoutHelper12UIDeviceSizeO", "i10_5Inch"]
+- !private ["12LayoutHelper12UIDeviceSizeO", "i11_Inch"]
+- !private ["12LayoutHelper12UIDeviceSizeO", "i12_9Inch"]
+- !private ["12LayoutHelper12UIDeviceSizeO", "i3_5Inch"]
+- !private ["12LayoutHelper12UIDeviceSizeO", "i4Inch"]
+- !private ["12LayoutHelper12UIDeviceSizeO", "i4_7Inch"]
+- !private ["12LayoutHelper12UIDeviceSizeO", "i5_4Inch"]
+- !private ["12LayoutHelper12UIDeviceSizeO", "i5_5Inch"]
+- !private ["12LayoutHelper12UIDeviceSizeO", "i5_8Inch"]
+- !private ["12LayoutHelper12UIDeviceSizeO", "i6_1Inch"]
+- !private ["12LayoutHelper12UIDeviceSizeO", "i6_5Inch"]
+- !private ["12LayoutHelper12UIDeviceSizeO", "i7_9Inch"]
+- !private ["12LayoutHelper12UIDeviceSizeO", "i9_7Inch"]
+- !private ["So18UIFocusEnvironmentP", ""]
+- ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "constant"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "deviceConstant"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "deviceSize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "iPadMini"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "iPadPro10_5"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "iPadPro11"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "iPadPro12_9"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "iPadPro9_7"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "iPhone11"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "iPhone11Max"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "iPhone11Pro"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "iPhone12Mini"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "iPhone4s"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "iPhone8"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "iPhone8Plus"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "iPhoneSE"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "constant"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "deviceConstant"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "deviceSize"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPadMini"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPadPro10_5"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPadPro11"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPadPro12_9"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPadPro9_7"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPhone11"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPhone11Max"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPhone11Pro"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPhone12Mini"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPhone4s"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPhone8"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPhone8Plus"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "iPhoneSE"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "s25ExpressibleByFloatLiteralP"
+- "SH"
+- !private "So8NSCodingP"
+- "So18NSLayoutConstraintC"
+- "12LayoutHelper08NSLayoutB0C"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "12LayoutHelper12UIDeviceSizeO"
+- !private "So18UIFocusEnvironmentP"
+- "s33_ExpressibleByBuiltinFloatLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/antoniremeseiroalfonso/Documents/Smarcle Workspace/Apps/Libraries/Layout-Helper/Example/Pods/Target Support Files/LayoutHelper-iOS13.2/LayoutHelper-iOS13.2-umbrella.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/antoniremeseiroalfonso/Documents/Smarcle Workspace/Apps/Libraries/Layout-Helper/Example/build/Pods.build/Debug-iphonesimulator/LayoutHelper-iOS13.2.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "5b9288ae57b9df4ae085c371c6e84884"

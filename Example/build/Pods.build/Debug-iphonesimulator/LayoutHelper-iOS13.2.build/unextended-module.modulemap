@@ -1,0 +1,10 @@
+framework module LayoutHelper {
+  umbrella header "LayoutHelper-iOS13.2-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module LayoutHelper.__Swift {
+    exclude header "LayoutHelper-Swift.h"
+}

@@ -29,6 +29,18 @@ import UIKit
     @IBInspectable var iPhone11Max: CGFloat = 0.0 {
         didSet { deviceFont(.i6_5Inch,value:iPhone11Max) }
     }
+    @IBInspectable var iPhone12Mini: CGFloat = 0.0 {
+        didSet { deviceFont(.i5_4Inch,value:iPhone12Mini) }
+    }
+    @IBInspectable var iPhone12: CGFloat = 0.0 {
+        didSet { deviceFont(.i6_1Inch,value:iPhone12) }
+    }
+    @IBInspectable var iPhone12Pro: CGFloat = 0.0 {
+        didSet { deviceFont(.i6_1Inch,value:iPhone12Pro) }
+    }
+    @IBInspectable var iPhone12ProMax: CGFloat = 0.0 {
+        didSet { deviceFont(.i6_7Inch,value:iPhone12ProMax) }
+    }
     @IBInspectable var iPadMini: CGFloat = 0.0 {
         didSet { deviceFont(.i7_9Inch,value:iPadMini) }
     }
@@ -37,6 +49,9 @@ import UIKit
     }
     @IBInspectable var iPadPro10_5: CGFloat = 0.0 {
         didSet { deviceFont(.i10_5Inch,value:iPadPro10_5) }
+    }
+    @IBInspectable var iPadAir10_8: CGFloat = 0.0 {
+        didSet { deviceFont(.i10_8Inch,value:iPadAir10_8) }
     }
     @IBInspectable var iPadPro11: CGFloat = 0.0 {
         didSet { deviceFont(.i11_Inch,value:iPadPro11) }

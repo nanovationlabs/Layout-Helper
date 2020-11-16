@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/antoniremeseiroalfonso/Documents/Smarcle Workspace/Apps/Libraries/Layout-Helper/Example/build/Debug-iphonesimulator/LayoutHelper-iOS13.2/LayoutHelper.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/antoniremeseiroalfonso/Documents/Smarcle Workspace/Apps/Libraries/Layout-Helper/Example/build/Pods.build/Debug-iphonesimulator/LayoutHelper-iOS13.2.build/unextended-module.modulemap",
+    }]
+  }]
+}
